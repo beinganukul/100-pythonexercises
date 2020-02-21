@@ -1,0 +1,2 @@
+raise RuntimeError('something wrong')
+
